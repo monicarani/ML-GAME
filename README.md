@@ -48,9 +48,9 @@
   
    # Some of the images related to our project
    
-   ![Game]()
-   ![Game]()
-   ![Game]()
+   ![Game](https://github.com/monicarani/ML-GAME/blob/main/Image1.jpeg)
+   ![Game](https://github.com/monicarani/ML-GAME/blob/main/Image2.jpeg)
+   ![Game](https://github.com/monicarani/ML-GAME/blob/main/Image3.jpeg)
   
   
   
